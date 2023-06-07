@@ -17,10 +17,13 @@ To build and run BookHub, make sure you have the following:
 To build the program, follow these steps:
 
 - Navigate to the "build" directory:
+
 cd build
 
 - Open a terminal and execute the following commands:
+
 cmake ..
+
 make
 
 These commands will configure the build system using CMake and compile the source code.
@@ -28,6 +31,7 @@ These commands will configure the build system using CMake and compile the sourc
 #Running the Program
 
 After successfully building the program using CMake, you can run it by executing the following command from the build directory:
+
 ./BookHub
 
 This command will start the BookHub program.
