@@ -1,0 +1,3 @@
+/home/dangnh/c++/BookHub/build/CMakeFiles/BookHub.dir
+/home/dangnh/c++/BookHub/build/CMakeFiles/edit_cache.dir
+/home/dangnh/c++/BookHub/build/CMakeFiles/rebuild_cache.dir
